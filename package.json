@@ -1,0 +1,16 @@
+{
+  "name": "loomi-api",
+  "version": "1.0.0",
+  "description": "Loomi Analytics API - Shopify + Google Sheets",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "echo 'No build step required'",
+    "start": "vercel dev"
+  },
+  "dependencies": {
+    "@shopify/shopify-api": "^8.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
