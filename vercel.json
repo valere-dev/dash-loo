@@ -14,12 +14,3 @@
     }
   ]
 }
-```
-
-5. Clique **"Commit changes"**
-
----
-
-Vercel va automatiquement redeploy. Dis-moi quand c'est fait et teste :
-```
-https://dash-loo.vercel.app/api/shopify/orders
